@@ -9,10 +9,12 @@ Number of variants | Chromosome
 -------------------|------------
 18,038 | 20
 10,991 | 21
-10,972 | 22. 
+10,972 | 22 
 
 All phase 3 populations are included in the dataset. 
 
+Download thinned dataset from:
+https://miami.box.com/s/cary308q2fa2zhw91jpkzviamxs3tqap
 
 
 
