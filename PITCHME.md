@@ -38,8 +38,8 @@ Check out the example script for a serial job at ccs.miami.edu/ac/docs
 @title[Get off the login node]
 ## <font color="#008080"> First things first </font>
 
-Request an interactive node by running:
-`bsub -Is -P <project_name> bash`
+Request an interactive node by running: <br>
+```bsub -Is -P <project_name> bash```
 <br><br>
 Why is this important?
 
@@ -71,7 +71,7 @@ Why is this important?
 ```
 scp /Downloads/data/* username@pegasus.ccs.miami.edu:~/pegasus_workshop/data
 ```
-Look up other options for file transfers at ccs.miami.edu/ac/docs
+Look up other options for [file transfers](ccs.miami.edu/ac/docs) 
 
 ---
 
@@ -133,6 +133,7 @@ Let's do that.
 ---
 
 @title[Installing the tools we'll need]
+## <font color="#008080"> Install plink </font>
 
 1. Go to https://www.cog-genomics.org/plink2 
 2. Download the stable build for a Linux 64-bit system. 
