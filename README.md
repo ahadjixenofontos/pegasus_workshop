@@ -18,7 +18,9 @@ https://miami.box.com/s/cary308q2fa2zhw91jpkzviamxs3tqap
 
 **Directories in this repository:**
 *scripts* - contains the scripts that are written during the workshop
+<br>
 *results* - frequency files calculated with the scripts written during the workshop
+<br>
 *histograms* - jupyter notebooks to plot histograms of the minor allele frequencies from files in results
 
 
