@@ -1,0 +1,3 @@
+/mihg/users/ahadjixenofontos/example_1000_genomes/original_data/chr_20	chr_20
+/mihg/users/ahadjixenofontos/example_1000_genomes/original_data/chr_21	chr_21
+/mihg/users/ahadjixenofontos/example_1000_genomes/original_data/chr_22	chr_22

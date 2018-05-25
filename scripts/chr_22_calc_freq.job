@@ -1,0 +1,7 @@
+#BSUB -J chr_22
+#BSUB -q general
+#BSUB -o chr_22.%J.out
+#BSUB -e chr_22.%J.err
+#BSUB -P reu
+
+plink --noweb --file /mihg/users/ahadjixenofontos/example_1000_genomes/original_data/chr_22 --freq --out ~/example_1000_genomes/results/chr_22_frequencies

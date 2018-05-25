@@ -1,0 +1,7 @@
+#BSUB -J chr_20
+#BSUB -q general
+#BSUB -o chr_20.%J.out
+#BSUB -e chr_20.%J.err
+#BSUB -P reu
+
+plink --noweb --file /mihg/users/ahadjixenofontos/example_1000_genomes/original_data/chr_20 --freq --out ~/example_1000_genomes/results/chr_20_frequencies
