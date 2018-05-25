@@ -16,7 +16,7 @@ All phase 3 populations are included in the dataset.
 Download thinned dataset from:
 https://miami.box.com/s/cary308q2fa2zhw91jpkzviamxs3tqap
 
-**Directories in this repository:**
+**Directories in this repository:** <br>
 *scripts* - contains the scripts that are written during the workshop
 <br>
 *results* - frequency files calculated with the scripts written during the workshop
